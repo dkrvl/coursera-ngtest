@@ -1,2 +1,3 @@
-var name = prompt('your name??', '');
-alert(name);
+function myalert(){
+	alert("this is the button");
+}
